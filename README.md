@@ -4,7 +4,7 @@
 -->
 
 🔭 I'm currently developing Devsphere as a personal project — a web application that bridges the gap between task management and social connectivity. Users can create and share posts, stories, and epics to a community they built with individuals who share similar technical interests. Check it out at [thedevsphere.com](https://www.thedevsphere.com) and connect with me — my username is nick! <br/>
-🌱 Continuously learning cloud and web development <br/>
+🌱 Continuously learning about cloud and web development <br/>
 🎓Bachelor of Engineering (B.E) from McMaster University 🦅 <br/>
 📫 How to reach me: nick.sansalone@hotmail.com | 289-380-1792 <br/>
 
