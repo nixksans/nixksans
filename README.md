@@ -1,9 +1,11 @@
-### Hi, I'm Nick
+### 🙋‍♂️ Hi, I'm Nick
 <!--
 **nixksans/nixksans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Devsphere, a web application that focuses on the bridging the gap between between task management and social connectivity. https://www.thedevsphere.com
+- 🔭 I'm currently developing Devsphere as a personal project — a web application that bridges the gap between task management and social connectivity. Users can create and share posts, stories, and epics to a community they built with individuals who share similar technical interests. Check it out at [thedevsphere.com](https://www.thedevsphere.com) and connect with me — my username is nick!
+- 🌱 Continuously learning cloud and web development
+- 🎓Bachelor of Engineering (B.E) from McMaster University 🦅
 - 📫 How to reach me: nick.sansalone@hotmail.com | 289-380-1792
 
 ## 🌐 Socials:
