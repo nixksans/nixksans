@@ -4,7 +4,7 @@
 -->
 
 - 🔭 I’m currently working on Devsphere, a web application that focuses on the bridging the gap between between task management and social connectivity. https://www.thedevsphere.com
-- 📫 How to reach me: nick.sansalone@hotmail.com | 2893801792
+- 📫 How to reach me: nick.sansalone@hotmail.com | 289-380-1792
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicholas-sansalone-3a5204132) 
